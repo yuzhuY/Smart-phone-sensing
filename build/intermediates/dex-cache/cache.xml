@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\oserh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_26db3018d1a3c8b54e9fad7e1dabb9c70073784a.jar" />
+    </item>
+    <item
+        jar="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_49c9ebc8139c917da0afbdd351c23639054000ec.jar" />
+    </item>
+    <item
+        jar="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fba75285c0c3b83b55c1b5e88d39b6137c7f9299">
+        <dex dex="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\pre-dexed\debug\instant-run_bda1e0ddf5b1e14ccd14cd0d9668c040c6433474.jar" />
+    </item>
+    <item
+        jar="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_bf677f14f474fe8dde33f27c6e41f071e6dcac7f.jar" />
+    </item>
+    <item
+        jar="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f58b366718595a9de49046ba66e24f101b1a0fa9">
+        <dex dex="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_761c3b55bbce90616c5c29f2cbaaf87020bbbe76.jar" />
+    </item>
+    <item
+        jar="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_0509674e3f067180f1c14265762142e39ed18191.jar" />
+    </item>
+    <item
+        jar="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_56456f128251f546e222fce91c93359b41342131.jar" />
+    </item>
+    <item
+        jar="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\linahe\quarter4\SPS\report1\Localization3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_0ba3891f2d6b051948b6693e2541d84c81d1db7e.jar" />
+    </item>
+
+</items>
